@@ -76,7 +76,8 @@ void display() {
 int main() {
     int n, value;
     while (1) {
-        printf("\n1. Insert Front\n2. Insert Back\n3. Delete Front\n4. Delete Back\n5. Display\n6. Exit");
+        printf("\n1. Insert Front\n2. Insert Back\n3. Delete Front
+            \n4. Delete Back\n5. Display\n6. Exit");
         printf("\nEnter the operation number: ");
         scanf("%d", &n);
         switch (n) {
