@@ -64,7 +64,8 @@ int main() {
     int choice;
 
     while (1) {
-        printf("\n1. Visit new page\n2. Go Back\n3. Go Forward\n4.
+        printf("\n1. Visit new page\n2. Go Back\n3. 
+            Go Forward\n4.
             Show Current Page\n5. Exit\nChoice: ");
         scanf("%d", &choice);
         getchar();  
