@@ -48,8 +48,7 @@ int main() {
     printf("Time taken by Binary Search : %f seconds\n", time_taken);
     printf("Approximate Space Complexity: %d bytes\n", space_complexity);
 
-    printf("\nResult: The above program has been successfully executed and outcome is verified.\n");
-    printf("It effectively addresses the course outcomes CO2 and CO3.\n");
+    
 
     return 0;
 }
